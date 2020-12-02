@@ -1,8 +1,4 @@
-#### Tutorial Video
-
-(React Tutorial)[https://youtu.be/iZhV0bILFb0]
-
-#### All Projects
+#### All deployed Projects
 
 [Projects Site](https://react-projects.netlify.app/)
 
